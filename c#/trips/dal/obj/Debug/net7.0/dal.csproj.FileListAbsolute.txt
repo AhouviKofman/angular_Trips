@@ -1,0 +1,14 @@
+C:\אנגולר-אתר טיולים\c#\trips\dal\bin\Debug\net7.0\dal.deps.json
+C:\אנגולר-אתר טיולים\c#\trips\dal\bin\Debug\net7.0\dal.runtimeconfig.json
+C:\אנגולר-אתר טיולים\c#\trips\dal\bin\Debug\net7.0\dal.dll
+C:\אנגולר-אתר טיולים\c#\trips\dal\bin\Debug\net7.0\dal.pdb
+C:\אנגולר-אתר טיולים\c#\trips\dal\obj\Debug\net7.0\dal.csproj.AssemblyReference.cache
+C:\אנגולר-אתר טיולים\c#\trips\dal\obj\Debug\net7.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\אנגולר-אתר טיולים\c#\trips\dal\obj\Debug\net7.0\dal.AssemblyInfoInputs.cache
+C:\אנגולר-אתר טיולים\c#\trips\dal\obj\Debug\net7.0\dal.AssemblyInfo.cs
+C:\אנגולר-אתר טיולים\c#\trips\dal\obj\Debug\net7.0\dal.csproj.CoreCompileInputs.cache
+C:\אנגולר-אתר טיולים\c#\trips\dal\obj\Debug\net7.0\dal.dll
+C:\אנגולר-אתר טיולים\c#\trips\dal\obj\Debug\net7.0\refint\dal.dll
+C:\אנגולר-אתר טיולים\c#\trips\dal\obj\Debug\net7.0\dal.pdb
+C:\אנגולר-אתר טיולים\c#\trips\dal\obj\Debug\net7.0\dal.genruntimeconfig.cache
+C:\אנגולר-אתר טיולים\c#\trips\dal\obj\Debug\net7.0\ref\dal.dll

@@ -1,0 +1,17 @@
+C:\אנגולר-אתר טיולים\c#\trips\bll\bin\Debug\net7.0\bll.deps.json
+C:\אנגולר-אתר טיולים\c#\trips\bll\bin\Debug\net7.0\bll.dll
+C:\אנגולר-אתר טיולים\c#\trips\bll\bin\Debug\net7.0\bll.pdb
+C:\אנגולר-אתר טיולים\c#\trips\bll\bin\Debug\net7.0\dal.dll
+C:\אנגולר-אתר טיולים\c#\trips\bll\bin\Debug\net7.0\dto.dll
+C:\אנגולר-אתר טיולים\c#\trips\bll\bin\Debug\net7.0\dal.pdb
+C:\אנגולר-אתר טיולים\c#\trips\bll\bin\Debug\net7.0\dto.pdb
+C:\אנגולר-אתר טיולים\c#\trips\bll\obj\Debug\net7.0\bll.csproj.AssemblyReference.cache
+C:\אנגולר-אתר טיולים\c#\trips\bll\obj\Debug\net7.0\bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\אנגולר-אתר טיולים\c#\trips\bll\obj\Debug\net7.0\bll.AssemblyInfoInputs.cache
+C:\אנגולר-אתר טיולים\c#\trips\bll\obj\Debug\net7.0\bll.AssemblyInfo.cs
+C:\אנגולר-אתר טיולים\c#\trips\bll\obj\Debug\net7.0\bll.csproj.CoreCompileInputs.cache
+C:\אנגולר-אתר טיולים\c#\trips\bll\obj\Debug\net7.0\bll.csproj.CopyComplete
+C:\אנגולר-אתר טיולים\c#\trips\bll\obj\Debug\net7.0\bll.dll
+C:\אנגולר-אתר טיולים\c#\trips\bll\obj\Debug\net7.0\refint\bll.dll
+C:\אנגולר-אתר טיולים\c#\trips\bll\obj\Debug\net7.0\bll.pdb
+C:\אנגולר-אתר טיולים\c#\trips\bll\obj\Debug\net7.0\ref\bll.dll
